@@ -7,6 +7,8 @@ os,glob,folium, shapefile, shapeconverter ~ mysql connecter
 '''
 
 import os
+import glob
 import pandas
 glob.glob(pathname='/Users/jeonmincheol/Personal_Project/Subway_location/subway.py')
 print('Done')
+print('hi')
